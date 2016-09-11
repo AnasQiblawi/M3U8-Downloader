@@ -2,6 +2,7 @@
 ::http://hls.younow.com/hlsarchives/live/2b/6b/113539057/playlist.m3u8
 :: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 echo off
+title M3U8 Downloader - Anas Qiblawi
 if not exist "videos" md videos
 cd _bin
 cls
