@@ -1,4 +1,6 @@
+:: For Test
 ::http://hls.younow.com/hlsarchives/live/2b/6b/113539057/playlist.m3u8
+:: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 echo off
 if not exist "videos" md videos
 cd _bin
