@@ -23,3 +23,7 @@ How to use :
 5- after that start the joiner.bat
 
   it will merge all .ts files into one file .
+
+### Notes
+This is a very old project I created to downlod videos from younow website 
+and it would only work if .ts files named like this 0.ts, 10.ts, xxx.ts
