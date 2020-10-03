@@ -25,5 +25,5 @@ How to use :
   it will merge all .ts files into one file .
 
 ### Notes
-This is a very old project I created to downlod videos from younow website 
+This is a very old project I created for myself to download .m3u8 videos from younow.com website and covert them to a single video file
 and it would only work if .ts files named like this 0.ts, 10.ts, xxx.ts
